@@ -1,7 +1,7 @@
 # Laravel-Docker
   Docker、Laravel7系、nginx、mysql8系を利用した環境が構築できます。
   
- #手順
+ # 手順
  
  クローンする
  
