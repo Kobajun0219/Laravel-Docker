@@ -31,5 +31,6 @@ b074c9aa9a1f        laravel-nginx-mysql80_web   "docker-php-entrypoi…"   3 hou
 ```
 
 下記にアクセスできてLaravelが出ればOK
+
 http://localhost/
 
