@@ -2,6 +2,10 @@
   Docker、Laravel7系、nginx、mysql8系を利用した環境が構築できます。
   
  #手順
+ 
+ クローンする
+ git clone https://github.com/Kobajun0219/Laravel-Docker.git
+ 
  docker-compose.ymlのある階層で
  
  ```
